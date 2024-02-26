@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">INF04#1A</string>
+    <string-array name="yachts">
+        <item>Delphia 40 Mysio</item>
+        <item>Delphia 40 Pysio</item>
+        <item>Delphia 40 Krzysio</item>
+    </string-array>
+</resources>
